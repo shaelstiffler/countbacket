@@ -19972,7 +19972,7 @@ function counter() {
     return /*#__PURE__*/ (0, _jsxDevRuntime.jsxDEV)((0, _jsxDevRuntime.Fragment), {
         children: [
             /*#__PURE__*/ (0, _jsxDevRuntime.jsxDEV)("h2", {
-                children: "Hello counTer "
+                children: "Hello counTer Text "
             }, void 0, false, {
                 fileName: "component/Counter.js",
                 lineNumber: 15,

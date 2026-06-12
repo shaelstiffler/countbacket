@@ -12,7 +12,7 @@ export default  function counter (){
     
     return (
         <>
-        <h2>Hello counTer </h2>
+        <h2>Hello counTer Text </h2>
         <h3>{count}</h3>
         <button className={style.btn} onClick={()=>{setCount(count + 1)}}> Add Value</button>
         </>
